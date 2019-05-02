@@ -1,4 +1,4 @@
-API_TOKEN = '835257966:AAFGhs9b8KT-_xTFneljlUN0yP3BIXDpDiI'
+API_TOKEN = ''
 
 MAGAZINS = ({
 				'title': "Магазин на Коменданском проспекте", 
